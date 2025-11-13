@@ -1,4 +1,3 @@
-Satellitepi is a program that can run on Raspberry Pi and automatically collect data from NOAA and METEOR satellites using RTL-SDR and a simple dipole antenna.
+SatellitePi is a project that turns Raspberry Pi into a weather satellite reception station. 
 
-Website with images can be found here:
-mmortowski.alwaysdata.net
+More updates coming soon.
