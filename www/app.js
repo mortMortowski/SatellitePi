@@ -7,7 +7,6 @@ const app = express();
 const PORT = 4000 || process.env.PORT;
 
 app.use(express.static("public"));
-app.use("/sat-images", express.static("/home/mort/Documents/SatellitePi/sat-images"));
 
 // Templating engine
 app.use(expressLayout);
