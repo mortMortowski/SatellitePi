@@ -1,2 +1,4 @@
 0.1: Added a web server
 0.2 Updated website
+0.3 Updated styles
+0.4 Added DB connectivity
